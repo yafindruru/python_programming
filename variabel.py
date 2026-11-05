@@ -1,0 +1,1 @@
+data = "yafi ganteng habis"
