@@ -1,6 +1,6 @@
 
-import geometri as geo # semua bisa dipakai
-from geometri import luasLingkaran, volumeTabung
+import matematika.geometri as geo # semua bisa dipakai
+from matematika.geometri import luasLingkaran, volumeTabung
 
 def main():
     print("Porgram menghitung volume tabung")
